@@ -154,11 +154,43 @@ Ask questions in natural language:
 > Show all violations in the last 24 hours.
 
 ---
+## 📸 Demo Images
 
-## 📽️ Demo & Deliverables
+<p align="center">
+  <img src="assets/home.png" width="100%">
+</p>
 
-- **Demo Video Link (Mandatory):** [Paste link]   
-- **Pitch Deck / PPT (Optional):** [Paste link]  
+<p align="center">
+  <img src="assets/dash.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/sd.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/tr.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/pdf.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/cht1.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/cht2.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/sen.png" width="100%">
+</p>
+
+## 📽️ Demo Video
+
+- **Demo Video Link:** https://youtu.be/p-7zFQdUSTE   
 
 ## Architecture
 
